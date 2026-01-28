@@ -1,12 +1,3 @@
-# README.md (for GitHub Repository)
-
-```
-Repository: petrolx
-File: README.md
-```
-
----
-
 # PETROLX (PTX)
 
 PETROLX (PTX) is a BEP-20 utility token built on BNB Smart Chain, designed as a foundation for fast, low-cost digital payments and settlement tools within the energy and petroleum trading ecosystem.
