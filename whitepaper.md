@@ -84,16 +84,21 @@ PTX tokens will be used for:
 
 ## 6. Tokenomics
 
+**Supply Policy:** Fixed supply of **10,000 PTX**. No minting will be enabled in the future.
+
 Initial distribution model:
 
-| Allocation                 | Amount | Percentage |
-| -------------------------- | ------ | ---------- |
-| Project Reserve            | 5,000  | 50%        |
-| Partnerships & Integration | 2,000  | 20%        |
-| Liquidity                  | 2,000  | 20%        |
-| Marketing & Community      | 1,000  | 10%        |
+| Allocation                     | Amount (PTX) | Percentage |
+| ------------------------------ | ------------ | ---------- |
+| Project Treasury (Reserve)     | 4,000        | 40%        |
+| Partnerships & B2B Integration | 2,500        | 25%        |
+| Liquidity (DEX)                | 2,000        | 20%        |
+| Marketing & Community          | 1,000        | 10%        |
+| Advisors / Early Contributors  | 500          | 5%         |
 
-The supply is fixed to maintain scarcity and long‑term value.
+The fixed supply model is designed to ensure long-term scarcity, transparency, and predictable economics for partners and platform users.
+
+No additional tokens can be minted beyond the initial total supply.
 
 ---
 
