@@ -1,1 +1,10 @@
+{
+  "name": "PETROLX",
+  "symbol": "PTX",
+  "decimals": 18,
+  "website": "https://github.com/alexl9111/petrolx",
+  "description": "PETROLX (PTX) is a BEP-20 utility token designed for digital payments and settlement solutions in the energy sector.",
+  "explorer": "https://bscscan.com/token/0xc3f66243f5c63efb880da127ab7dc1dbe746457b",
+  "type": "BEP20"
+}
 
